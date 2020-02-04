@@ -1,0 +1,30 @@
+{
+  "tags": {
+    "nomads-of-myria": {
+      "id": "nomads-of-myria",
+      "name": "Nomads of Myria"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "poster": "/images/poster.png",
+      "title": "This is a Blog Post",
+      "author": "Seven",
+      "date": "December 13th, 2019",
+      "tags": ["nomads-of-myria"],
+      "lead": "This is the leading section of the blog post.",
+      "content": "This is the content of the blog post."
+    },
+    {
+      "id": 2,
+      "poster": "/images/poster.png",
+      "title": "This is a Blog Post",
+      "author": "Seven",
+      "date": "December 13th, 2019",
+      "tags": ["nomads-of-myria"],
+      "lead": "This is the leading section of the blog post.",
+      "content": "This is the content of the blog post."
+    }
+  ]
+}
